@@ -1,4 +1,9 @@
 ## 中国注会、审计师、事务所信息爬虫
+
+### 数据
+
+`raw_data.zip` 为 `2020年3月12日` 下载好的数据。`
+
 ### 简介
 
 信息来自[中国注册会计师行业信息管理系统](http://cmispub.cicpa.org.cn/cicpa2_web/goto/nomsg/DNA_XH/default.shtml)，由 `Python` 的 `Scrapy` 框架编写。
